@@ -15,3 +15,18 @@ Command line skills are usefull to operate with file directories, every action p
 Articles about HTTP were informative and provided general overview about protocol, headers, client-server communication and was explained the meaning of status codes. The second part of article introduced more detailed information about http connections, namely process of user indentification and authentication, secure protocol and certificates and concept of caching that saves time, cost and improve web-browsing experience. Though text appeared to me a bit tough, I've fixed the result with CS50 lecture about HTTP.
 
 ![Screenshot of performed tasks](task-linux-cli/CLI_Complete.png)
+
+##
+
+This two completed courses, in fact, it's just repetition of earlier covered material with usefull additions and some new Git features.
+What was learned new: 
+* Flags, that used to alter how a program functions and/or what is displayed. For example -p, --stat, --oneline, --decorate, --graph, --all for git log. This flags helps us to get more info about commits and operate with it in more convinient way;
+* git show, to access info about particular commit and how they can be reached by HEAD reference;
+* git tag, to label commits;
+--amend
+* git reset --mixed --soft --hard
+git shortlog -n -s
+
+git remote add upstream (!)
+git rebase -i HEAD~3 (interactive)
+squash rename
