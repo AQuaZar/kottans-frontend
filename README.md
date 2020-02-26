@@ -37,3 +37,9 @@ What was learned new:
 ## Intro to HTML and CSS
 
 ![Screenshot of performed tasks](task-html-css-intro/html-css-udacity.png)
+
+## Responsive Web Design
+
+![Screenshot of performed tasks](task_responsive_web_design/flexbox.png)
+
+![Screenshot of performed tasks](task_responsive_web_design/udacity-responsive-web-design.png)
