@@ -19,16 +19,21 @@ Articles about HTTP were informative and provided general overview about protoco
 ## 2 - Git Collaboration
 
 This two completed courses, in fact, it's just repetition of earlier covered material with useful additions and some new Git features.
-What was learned new: 
-* Flags, that used to alter how a program functions and/or what is displayed. For example -p, --stat, --oneline, --decorate, --graph, --all for git log. This flags helps us to get more info about commits and operate with it in more convinient way;
-* git show, to access info about particular commit and how it can be reached by HEAD reference;
-* git tag, to label commits;
-* git commit --amend, useful command to "cancel" most recent commit, allows us to add some files to staging area or change the commit message;
-* git reset --soft(resets commit) --mixed(resets commit+index) --hard(resets commit+index+working area);
-* git shortlog provides more clear view on commits history;
-* Was introduced upstream, that helps us keep up to date our forked repository with original one;
-* And at the end was reviewed powerful git rebase, that provides us ability to change past commits, for example rename, squash, delete and a lot more.   
+What was learned new:
+
+- Flags, that used to alter how a program functions and/or what is displayed. For example -p, --stat, --oneline, --decorate, --graph, --all for git log. This flags helps us to get more info about commits and operate with it in more convinient way;
+- git show, to access info about particular commit and how it can be reached by HEAD reference;
+- git tag, to label commits;
+- git commit --amend, useful command to "cancel" most recent commit, allows us to add some files to staging area or change the commit message;
+- git reset --soft(resets commit) --mixed(resets commit+index) --hard(resets commit+index+working area);
+- git shortlog provides more clear view on commits history;
+- Was introduced upstream, that helps us keep up to date our forked repository with original one;
+- And at the end was reviewed powerful git rebase, that provides us ability to change past commits, for example rename, squash, delete and a lot more.
 
 ![Screenshot of performed tasks](task-git-collaboration/Version_Control_Complete.png)
 
 ![Screenshot of performed tasks](task-git-collaboration/Git_Collaboration_Complete.png)
+
+## Intro to HTML and CSS
+
+![Screenshot of performed tasks](task-html-css-intro/html-css-udacity.png)
